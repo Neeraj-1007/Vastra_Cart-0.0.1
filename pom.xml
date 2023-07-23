@@ -5,6 +5,7 @@
     <modules>
         <module>Login</module>
         <module>User</module>
+        <module>Category</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
